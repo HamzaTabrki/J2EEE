@@ -1,4 +1,4 @@
-package Serveur;
+package Metier;
 
 import java.rmi.RemoteException;
 import java.util.ArrayList;
